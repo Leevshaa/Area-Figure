@@ -1,4 +1,6 @@
-package app;
+package figure;
+
+import app.CalcAreaFigure;
 
 public class Square implements CalcAreaFigure {
 

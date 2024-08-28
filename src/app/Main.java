@@ -1,5 +1,9 @@
 package app;
 
+import figure.Circle;
+import figure.Square;
+import figure.Triangle;
+
 public class Main {
 
     public static void main(String[] args) {
